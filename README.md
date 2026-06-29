@@ -81,16 +81,11 @@ stephen = {
     "frontend": ["HTML", "CSS", "JavaScript"],
     "databases": ["MySQL", "Oracle", "PostgreSQL", "SQLite"],
     "cloud": ["AWS", "Google Cloud Platform"],
-    "interests": [
+    "currentlyLearning": [
         "Software Development",
         "Cybersecurity",
         "Cloud Computing",
         "Backend Development"
-    ],
-    "currentlyLearning": [
-        "Cybersecurity",
-        "Cloud Security",
-        "Advanced Backend Development"
     ]
 }
 ````
