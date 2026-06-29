@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,3,12&text=Stephen%20Raj%20G&fontSize=38&fontColor=ffffff&animation=fadeIn&section=header&fontAlignY=38&desc=Software%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20Cybersecurity%20Learner&descAlignY=58&descSize=16"/>
 </p>
@@ -167,4 +166,3 @@ stephen = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,3,12&section=footer&animation=fadeIn"/>
 </p>
-```
