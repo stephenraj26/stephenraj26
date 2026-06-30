@@ -71,6 +71,21 @@ A full-stack Flask web application featuring:
 
 **Tech Stack:** Flask, Python, SQLite, APScheduler, HTML, CSS, JavaScript
 
+
+### 💼 Job Application Tracker
+
+A full-stack web application featuring:
+
+- Add and manage job applications
+- Store company name, role, application status, and notes
+- Filter applications by status
+- Dashboard with application statistics
+- Full CRUD Operations
+- Dynamic SQL-Based Filtering
+- Responsive Bootstrap User Interface
+
+**Tech Stack:** Python, Flask, SQLite, Bootstrap, Jinja2
+
 ---
 
 ## 💻 Tech Stack
